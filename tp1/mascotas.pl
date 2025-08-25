@@ -1,7 +1,8 @@
-mascotas(perro, fido).
-mascotas(gato,whiskers).
+mascota(perro, fido).
+mascota(gato,whiskers).
 mascota(perro,rex).
 dueño(juan,fido).
+dueño(juan,canario).
 dueño(ana,whiskers).
 dueño(pedro,rex).
 color(marron,fido).
