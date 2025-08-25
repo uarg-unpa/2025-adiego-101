@@ -8,3 +8,4 @@ dueño(pedro,rex).
 color(marron,fido).
 color(whiskers,gris).
 color(rex,negro).
+mascota_color(Color,Mascota):-color(Mascota,Color).
