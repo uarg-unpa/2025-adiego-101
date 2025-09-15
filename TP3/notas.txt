@@ -1,0 +1,5 @@
+assert(alumno(test)); al final de los hechos de alumno.
+asserta(alumno(herrera)). al inicio.
+assertz(alumno(mansilla)). al final. 
+retract(alumno(herrera)). elimina un hecho de la base de conocimiento.
+listing. lista los hechos.
